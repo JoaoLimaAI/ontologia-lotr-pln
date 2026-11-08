@@ -1,0 +1,6 @@
+*.csv
+*.ttl
+*.json
+
+make_slides2.py
+make_docx2.js
